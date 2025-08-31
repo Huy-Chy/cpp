@@ -27,4 +27,5 @@ int main(){
     cout<<"Sum of columns"<<i+1<<" = "<<sumColumns(mat,i)<<endl;
   }
   return 0;  
+
 }
